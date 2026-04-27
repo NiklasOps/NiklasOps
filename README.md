@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/GMBSells-Official_Team-blue?style=for-the-badge&logo=github" alt="GMBSells" />
   
   <h1>👋 Hi, I am Niklas Holm</h1>
-  <h3> Infrastructure & Operations Lead at GMBSells™</h3>
+  <h3> Infrastructure & Operations Lead at GMBSells</h3>
   
   <p>
     <b>Custom Year Contribution Push</b> | <b>High-Retention Stars</b> | <b>Strategic Forks</b>
@@ -74,5 +74,5 @@ Reach out to our global team for high-volume needs:
 
 ---
 <p align="center">
-  <em>© 2026 Niklas Holm | Authorized Infrastructure Lead at GMBSells™.</em>
+  <em>© 2026 Niklas Holm | Authorized Infrastructure Lead at GMBSells.</em>
 </p>
